@@ -3,6 +3,11 @@
 =======
 //This is the line causing issue in the conflict branch 
 >>>>>>> conflict
+//This is the second line causing issue in the <*master/conflict> branch
+
+*delete as appropriate
+
+
 
 #include<stdio.h>
  
