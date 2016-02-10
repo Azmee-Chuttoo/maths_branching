@@ -36,7 +36,7 @@ int main()
    printf("Enter two numbers to division\n");
    scanf("%d%d",&a,&b);
  
-   c = a % b;
+   c = a / b;
  
    printf("Sum of entered numbers = %d\n",c);
  
